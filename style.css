@@ -1,0 +1,172 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	width:100%;
+}
+#navbar { /* ids need to be referenced w/ # but elements don't */
+		width: 100%; /*automatic top*/ /* default has margin */
+		height: px;
+		background-color:steelblue;
+		color:white;
+
+	
+
+	}
+	#homepagepic {
+		
+		width:100%;
+		
+	}
+
+	@-webkit-keyframes animat_show{
+        0%{opacity:0}
+        100%{opacity:1}
+    }
+
+	#text {
+		color:ghostwhite;
+		margin:0;
+		text-align: center;
+		padding: 10px 0;
+	}
+	#buttonbar {
+		background-color:#3F3F3F;
+		padding:30px; /* padding adds on to height */
+		width:100%;
+	}
+	body {
+		margin: 0;
+		background-color:lavenderblush;
+	}
+	#contact {
+		background-color: mintcream;
+		margin-left: 10%;
+	}
+	#accomplishments {
+		background-color: mintcream;
+		margin-left: 10%;
+	}
+	h3 {
+		color:lavenderblush;
+		font-family:monospace;
+		display: inline-block;
+		margin-left: 8%;
+	}
+	h3:hover {
+		color:thistle;
+	}
+	#descriptionBar {
+		background-color:lightskyblue;
+		padding:50px; 
+		width:100%;
+	}
+	#githubBar {
+		background-color:mistyrose;
+		padding:50px; 
+		width:100%;
+	}
+	#resumeBar {
+		background-color:cornsilk;
+		padding:150px; 
+		width:100%;
+	}
+	#roundpic {
+		width:20%;
+		height:20%;
+		border-radius: 50%;
+	}
+	#description1 {
+		display: inline-block;
+		margin-left: 10%;
+		font-family:monospace;
+	}
+	#description2 {
+		margin-left: 10%;
+		font-family:monospace;
+	}
+	#githublogo {
+		width:20%;
+		height:20%;
+	}
+	#half {
+		margin-left: 10%;
+		background-color:lightskyblue;
+		width:50%;
+		display: inline-block;
+	}
+	#half2 {
+		background-color:mistyrose;
+		width:70%;
+		display: inline-block;
+	}
+	#github {
+		margin-left: 20%;
+	}
+	#emailBar {
+		background-color: #E27D60;
+		width: 100%;
+		height: 20%;
+	}
+	#gmail {
+		width:15%;
+		height:15%;
+		margin-left: 5%;
+		margin-top: 2%;
+	}
+	#emails {
+		width:50%;
+		display: inline-block;
+		margin-left: 5%;
+	}
+	#linkedin {
+		background-color: #E8A87C;
+		width: 100%;
+		height: 20%;
+	}
+	#linkedinlogo {
+		width:15%;
+		height:15%;
+		margin-left: 5%;
+		margin-top: 2%;
+	}
+	#in {
+		width:60%;
+		display: inline-block;
+		margin-left: 5%;
+	}
+	#facebook {
+		background-color: #41B3A3;
+		width: 100%;
+		height: 20%;
+	}
+	#facebooklogo {
+		width:15%;
+		height:15%;
+		margin-left: 5%;
+		margin-top: 2%;
+	}
+	#fb {
+		width:60%;
+		display: inline-block;
+		margin-left: 5%;
+	}
+	#github2logo {
+		width:15%;
+		height:15%;
+		margin-left: 5%;
+		margin-top: 2%;
+	}
+	#gh2 {
+		width:40%;
+		display: inline-block;
+		margin-left: 7%;
+	}
+	#github2 {
+		background-color: #C38D9E;
+		width: 100%;
+		height: 20%;
+	}
+
+
