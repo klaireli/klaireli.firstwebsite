@@ -50,7 +50,8 @@ html {
 	}
 	h3 {
 		color:lavenderblush;
-		font-family:monospace;
+		font-family:sans-serif;
+		font-weight: 10;
 		display: inline-block;
 		margin-left: 8%;
 	}
@@ -167,6 +168,51 @@ html {
 		background-color: #C38D9E;
 		width: 100%;
 		height: 20%;
+	}
+	#jobBar {
+		background-color:#edece8;
+		padding: 150px 150px 50px 150px; /* padding adds on to height */
+		margin: 4% 5% 5% 5%;
+		position: relative;
+	}
+	/*#katsaddon {
+		background-color: #42f44e;
+		position: relative;
+		padding:50px;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 4%;
+		margin-bottom: 5%;
+	}*/
+	/*#kat {
+		color: #e5f441;
+	}*/
+	#idbydna {
+		vertical-align: top;
+		top: 0px;
+		margin-left: -13%;
+		margin-top: 3%;
+		position: absolute;
+		font-family: 'Open Sans', sans-serif;
+		font-weight: 300;
+
+		
+	}
+	#idlogo {
+		width:50%;
+		height:50%;
+		vertical-align: top;
+		margin-left: 30%;
+		margin-top: -25%;
+	}
+	#tableau {
+		width:130%;
+		height:130%;
+		vertical-align: top;
+		margin-left: -15%;
+		margin-top: -5%;
+		box-shadow: 0 0 10px grey;
+
 	}
 
 
